@@ -1,5 +1,5 @@
 # Credential-Stealer
-Simple batch script that silently downloads executable files then extracts saved browser passwords and sends them to a remote server
+Simple batch script that silently downloads executable files then extracts saved browser passwords and sends them to a python remote server
 
 # Installation
 
