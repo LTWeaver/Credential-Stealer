@@ -24,8 +24,8 @@ def handle_client(connection, address):
     connection.close()
 
 def main():
-    host = '0.0.0.0'
-    port = 12345
+    host = '<server-ip>'
+    port = <server-port>
 
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_socket.bind((host, port))
